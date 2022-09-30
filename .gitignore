@@ -1,18 +1,26 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+{
+    "name": "hack by nk",
+    "identifier": "nk.store.app",
+    "sourceURL": "https://nk.store",
+    "iconURL": "https://archive.org/download/app-icon-60x-60-2x_20220926/AppIcon60x60%402x.png",
+    "sourcceDescription": "made:@nk",
+    "apps": [
 
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+        {
+            "name": "War Robots",
+            "bundleIdentifier": "nk.store",
+            "developerName": "hack by nk",
+            "version": "8.4",
+            "versionDate": "2022-09-17T11:36:00+08:00",
+            "versionDescription": "Speed x2 (safe)",
+            "downloadURL": "https://archive.org/download/war-robots-8.4.0-m-1/WarRobots_8.4.0_m1.ipa",
+            "localizedDescription": "IGG+",
+            "iconURL": "https://archive.org/download/app-icon-60x-60-2x_20220926/AppIcon60x60%402x.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 1,
+            "size": 64000000
+        }
+    ]
+}
+Footer
+© 2022 GitHub, Inc.
